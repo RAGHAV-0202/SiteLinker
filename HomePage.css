@@ -186,9 +186,10 @@ html {
   justify-content: center;
   margin: 0 auto;
   /* Center the section horizontally */
-  max-height: 900px;
+  /* max-height: 900px; */
   gap: 20px;
 }
+
 
 .skheading {
   height: 50px;
