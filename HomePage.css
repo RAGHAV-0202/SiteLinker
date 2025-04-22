@@ -439,4 +439,6 @@ html {
   .about_desc {
     padding-left: 0;
   }
+  .container{
+    max-width : "90%"
 }
